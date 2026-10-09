@@ -63,6 +63,7 @@
 - [**`BD Recycle Technologies Limited (BRTL)`**](https://brtlcenter.com/) : A tech-based platform where all the waste collectors, dealers, recyclers & consumers are connected. ***(Last Update: 2024.06.14)***
 - [**`DuboTech`**](https://dubotech.com/) : DuboTech is a pioneering deep tech startup from Bangladesh, specializing in cutting-edge underwater technology. ***(Last Update: 2024.12.12)***
 - [**`Cassetex`**](https://www.cassetex.com/) : Cassetex is 1st Solar Battery Swapping in Bangladesh. ***(Last Update: 2025.06.22)***
+- [**`StoreOS`**](https://storeos.dev/) : StoreOS is a hosted online store builder for Bangladesh sellers, with COD, phone OTP, and Pathao and Steadfast courier booking, billed in taka. ***(Last Update: 2026.10.06)***
 <!---
 [**`EN-NAME`**](WEBSITE-URL) : EN-DESCRIPTION। ***(Last Update: EN-YYYY.MM.DD)***
 --->

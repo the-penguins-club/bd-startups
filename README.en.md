@@ -64,6 +64,8 @@
 - [**`DuboTech`**](https://dubotech.com/) : DuboTech is a pioneering deep tech startup from Bangladesh, specializing in cutting-edge underwater technology. ***(Last Update: 2024.12.12)***
 - [**`Cassetex`**](https://www.cassetex.com/) : Cassetex is 1st Solar Battery Swapping in Bangladesh. ***(Last Update: 2025.06.22)***
 - [**`StoreOS`**](https://storeos.dev/) : StoreOS is a hosted online store builder for Bangladesh sellers, with COD, phone OTP, and Pathao and Steadfast courier booking, billed in taka. ***(Last Update: 2026.10.06)***
+- [**`Bongo BD`**](https://bongobd.com) : The pioneer and largest video streaming (OTT) platform in Bangladesh offering movies, dramas, and original digital content. ***(Last Update: 2026.10.14)***
+- [**`ACS`**](https://aparsclassroom.com) : A leading Bangladeshi EdTech platform providing comprehensive academic and university admission preparation courses for students. ***(Last Update: 2026.10.14)***
 <!---
 [**`EN-NAME`**](WEBSITE-URL) : EN-DESCRIPTION। ***(Last Update: EN-YYYY.MM.DD)***
 --->

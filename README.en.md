@@ -66,7 +66,8 @@
 - [**`StoreOS`**](https://storeos.dev/) : StoreOS is a hosted online store builder for Bangladesh sellers, with COD, phone OTP, and Pathao and Steadfast courier booking, billed in taka. ***(Last Update: 2026.10.06)***
 - [**`Bongo BD`**](https://bongobd.com) : The pioneer and largest video streaming (OTT) platform in Bangladesh offering movies, dramas, and original digital content. ***(Last Update: 2026.10.14)***
 - [**`ACS`**](https://aparsclassroom.com) : A leading Bangladeshi EdTech platform providing comprehensive academic and university admission preparation courses for students. ***(Last Update: 2026.10.14)***
-<!---
+- [**`Localoy`**](https://localoy.app/) : Localoy is a platform to find local events nearby. ***(Last Update: 2026.11.09)***
+<!---   
 [**`EN-NAME`**](WEBSITE-URL) : EN-DESCRIPTION। ***(Last Update: EN-YYYY.MM.DD)***
 --->
 

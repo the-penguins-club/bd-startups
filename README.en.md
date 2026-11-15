@@ -67,6 +67,8 @@
 - [**`Bongo BD`**](https://bongobd.com) : The pioneer and largest video streaming (OTT) platform in Bangladesh offering movies, dramas, and original digital content. ***(Last Update: 2026.10.14)***
 - [**`ACS`**](https://aparsclassroom.com) : A leading Bangladeshi EdTech platform providing comprehensive academic and university admission preparation courses for students. ***(Last Update: 2026.10.14)***
 - [**`Localoy`**](https://localoy.app/) : Localoy is a platform to find local events nearby. ***(Last Update: 2026.11.09)***
+- [**`Bitefiz`**](https://www.bitefiz.com/) : Bitefiz is a food and resturant discovery platform ***(Last Update: 2026.15.09)***
+- [**`NearU`**](https://nearu.site/) : Your One Stop Solution To Explore Everything Near You  ***(Last Update: 2026.15.09)***
 <!---   
 [**`EN-NAME`**](WEBSITE-URL) : EN-DESCRIPTION। ***(Last Update: EN-YYYY.MM.DD)***
 --->

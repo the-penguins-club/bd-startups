@@ -69,6 +69,7 @@
 - [**`Localoy`**](https://localoy.app/) : Localoy is a platform to find local events nearby. ***(Last Update: 2026.11.09)***
 - [**`Bitefiz`**](https://www.bitefiz.com/) : Bitefiz is a food and resturant discovery platform ***(Last Update: 2026.15.09)***
 - [**`NearU`**](https://nearu.site/) : Your One Stop Solution To Explore Everything Near You  ***(Last Update: 2026.15.09)***
+- [**`LexIntell`**](https://lexintell.bd/) : Legal research for Bangladesh - judgments, legislation, judges and lawyers. ***(Last Update: 2026.11.18)***
 <!---   
 [**`EN-NAME`**](WEBSITE-URL) : EN-DESCRIPTION। ***(Last Update: EN-YYYY.MM.DD)***
 --->

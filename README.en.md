@@ -70,6 +70,7 @@
 - [**`Bitefiz`**](https://www.bitefiz.com/) : Bitefiz is a food and resturant discovery platform ***(Last Update: 2026.15.09)***
 - [**`NearU`**](https://nearu.site/) : Your One Stop Solution To Explore Everything Near You  ***(Last Update: 2026.15.09)***
 - [**`DiscountNearby`**](https://discountnearby.com/) : Checked discounts near you, plus free business tools for small shops (cash memo, baki khata, stock, POS, VAT), in Bangla and English. ***(Last Update: 2026.11.22)***
+- [**`KomKoto`**](https://komkoto.bd/) : Tech price comparison for Bangladesh: phones, laptops and PC parts across 22 shops, with price drop alerts. ***(Last Update: 2026.11.27)***
 <!---   
 [**`EN-NAME`**](WEBSITE-URL) : EN-DESCRIPTION। ***(Last Update: EN-YYYY.MM.DD)***
 --->

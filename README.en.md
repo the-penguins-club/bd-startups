@@ -16,7 +16,7 @@
 ## Startups
 - [**`10 Minute School`**](https://10minuteschool.com) : eDTech - Academic and skill development learning platform. ***(Last Update: 2021.12.10)***
 - [**`Ajkerdeal`**](https://ajkerdeal.com) : Online shopping platform. ***(Last Update: 2021.12.15)***
-- [**`Arogga`**](https://www.arogga.com/) Doorstep delivery service for medicine and healthcare service. ***(Last Update: 2022.04.19)***
+- [**`Arogga`**](https://www.arogga.com/) : Doorstep delivery service for medicine and healthcare service. ***(Last Update: 2022.04.19)***
 - [**`Bkash`**](https://www.bkash.com/) : Mobile banking solution. ***(Last Update: 2021.12.09)***
 - [**`Bdjobs`**](https://www.bdjobs.com/) : Job searching platform. ***(Last Update: 2021.12.15)***
 - [**`Chaldal`**](https://chaldal.com) : Online grocery store. ***(Last Update: 2021.12.10)***
@@ -82,12 +82,17 @@
 ## Inactive
 - [**`Gaze`**](https://developer.gaze.ai/) : API for visual recognition, biometric and other services. ***(Last Update: 2022.01.12)***
 - [**`Repto`**](https://repto.com.bd/) : Online education platform. ***(Last Update: 2021.12.12)***
-- [**`The Penguins Club`**](https://thepenguins.club/) : Daily Bangla magazine on open source, Linux, business, privacy and security. ***(Last Update: 2021.12.12)***
 - [**`Maya`**](https://m.mayaiswithyou.com/) : Maya is telemedicine service specially for women. ***(Last Update: 2022.01.24)***
 - [**`BiddinGO Ride`**](https://biddingo.app/) : BiddinGO is a ridesharing app that works for sharing ride as customer demand. ***(Last Update: 2022.03.30)***
 - [**`Gaze`**](https://www.gaze.ai) : Artificial Intelligence related startup. ***(Last Update: 2022.04.19)***
 - [**`Hackverse`**](https://www.hackverse.dev/) : Hackverse is a hackathon-conducting platform. ***(Last Update: 2023.08.14)***
 - [**`Mitro`**](https://mitro.io/en) : Platform for withdraw advance salary. ***(Last Update: 2023.09.08)***
+- [**`Ajkerdeal`**](https://ajkerdeal.com) : Online shopping platform. ***(Last Update: 2021.12.15)***
+- [**`Khamar-E`**](https://khamar-e.com/) : Khamar-e is a agro-tech startup in Bangladesh. ***(Last Update: 2022.01.23)***
+- [**`Boi Pathok`**](https://boipathok.com/) : Digital edition of the traditional library. ***(Last Update: 2022.04.03)***
+- [**`Khelbei Bangladesh`**](https://kbangla.com/) : Online Game Learning Platform. ***(Last Update: 2021.12.13)***
+- [**`JoBike`**](https://www.jobike.bike/) : JoBike is the first “station-less” bike-sharing service in Bangladesh. ***(Last Update: 2024.06.14)***
+
   
 ## Contributors
 <a href="https://github.com/The-Penguins-Club/bd-startups/graphs/contributors">
